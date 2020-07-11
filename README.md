@@ -1,6 +1,6 @@
-<h1>e-recruitment-official-website</h1>
-<p>List daftar link web dan e-recruitment resmi dari berbagai perusahaan di Indonesia. <br>
-Repo ini dibuat untuk membantu orang-orang yang sedang mencari pekerjaan.</p>
+# e-recruitment-official-website
+List daftar link web dan e-recruitment resmi dari berbagai perusahaan di Indonesia. <br>
+Repo ini dibuat untuk membantu orang-orang yang sedang mencari pekerjaan.
 
 <h2>BUMN</h2>
 <h3>PT Pertamina</h3>

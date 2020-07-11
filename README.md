@@ -1,7 +1,7 @@
 <h1>e-recruitment-official-website</h1>
 
 <h2>BUMN</h2>
-<h3>PT Pertamina<h3>
+<h3>PT Pertamina</h3>
 <p>Web resmi : https://www.pertamina.com/ <br>
   E-recruitment : https://recruitment.pertamina.com/</p>
 
@@ -39,7 +39,7 @@ E-recruitment : https://www.morethanajob.id/</p>
 E-recruitment : https://karir.bca.co.id/</p>
 
 <h2>DLL</h2>
-<h3>PT Indofood<h3>
+<h3>PT Indofood</h3>
 <p>Web resmi : https://www.indofood.com/ <br>
   E-recruitment : https://e-recruitment.indofood.com/</p>
 
